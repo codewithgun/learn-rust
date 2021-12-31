@@ -6,7 +6,7 @@
 // mod unions;
 // mod array_tupple;
 // mod borsh_ser_deser;
-mod arimethic;
+mod closure;
 fn main() {
-    arimethic::test();
+    closure::test();
 }
